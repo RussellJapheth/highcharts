@@ -11,7 +11,6 @@
 import BaseSeries from '../Core/Series/Series.js';
 var seriesTypes = BaseSeries.seriesTypes;
 import ColumnSeries from './Column/ColumnSeries.js';
-import DumbbellSeries from './DumbbellSeries.js';
 var colProto = ColumnSeries.prototype;
 import H from '../Core/Globals.js';
 import Point from '../Core/Series/Point.js';
